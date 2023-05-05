@@ -2,7 +2,7 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 7f16686c5832a2815e4a85fd38cf35752757586f
+source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -29,5 +29,7 @@ ht-degree: 0%
       + Mars {#mar2022}
          + [Telling Impact Stories with Data](analytics/mar2022/stories-with-data.md)
 + Marketo {#marketo}
+   + Maj {#may2023}
+      + [Krackning av personalisering vid skalkod med Marketo Engage](marketo/may2023/personalization-at-scale.md)
    + Mars {#mar2023}
       + [Så här gör du [!DNL Adobe Marketo Engage] Innehållsskalbar](marketo/mar2023/templates-tokens-teamwork.md)
