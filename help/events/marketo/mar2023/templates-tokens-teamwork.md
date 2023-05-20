@@ -8,13 +8,13 @@ solution: Marketo Engage
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
-source-git-commit: d48d7708a03ec228d0ef09953fcfbca92dacabb8
+exl-id: 918aac13-6a47-43cf-80d6-19d08eae6c08
+source-git-commit: c622835c7960f8333201e1cf0c6c55b17dae8dc2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Mallar, tokens och teamwork - Skapa Adobe [!DNL Marketo Engage] skalbar
 

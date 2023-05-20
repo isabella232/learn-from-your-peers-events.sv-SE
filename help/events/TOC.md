@@ -4,8 +4,8 @@ user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
 source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 14%
 
 ---
 
